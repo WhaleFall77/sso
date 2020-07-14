@@ -5,15 +5,14 @@
 package com.infinova.sso.git;
 
 /**
- *
  * @create 2020/7/14
  * @since 1.0.0
  */
 public class Check {
 
     public void test() {
-        System.out.println("test");
-        System.out.println("test 2");
+        System.out.println("master 1");
+        System.out.println("master 2");
     }
 
 }
