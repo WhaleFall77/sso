@@ -57,7 +57,7 @@ public class JwtService {
     }
 
     /**
-     * 过期时间小于半小时，返回新的jwt，否则返回原jwt
+     * 过期时间小于半小时，返回新的jwt，否则返回原jwt 测试
      */
     public String refreshJwt(String jwt) {
         String secret = RedisUtil.redisTemplate.opsForValue().get(jwt);
