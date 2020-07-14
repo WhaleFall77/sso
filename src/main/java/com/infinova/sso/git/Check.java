@@ -9,7 +9,7 @@
 package com.infinova.sso.git;
 
 /**
- *
+ *  回退版本
  * @create 2020/7/14
  * @since 1.0.0
  */
