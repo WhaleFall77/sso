@@ -16,8 +16,8 @@ package com.infinova.sso.git;
 public class Check {
 
     public void test() {
-        System.out.println("test");
-        System.out.println("test 2");
+        System.out.println("dev 1");
+        System.out.println("dev 2");
     }
 
 }
